@@ -4,9 +4,10 @@
 This repository contains code and documentation for developing a business analytics model focused on predicting customer churn. The model analyzes customer data to identify patterns and factors contributing to churn, enabling businesses to take proactive measures to retain customers
 
 # Features:
-* Data cleaning and preprocessing to ensure data quality.
-* Model development for predicting customer churn.
-* Evaluation of model performance using relevant metrics.
+* Data was cleaned and preprocessed to ensure data quality.
+* Model development for predicting customer churn - Linear Regression. 
+* Evaluation of model performance using relevant metrics - Mean Squared Error(mse) and R-squared were used as 
+  relevant metrics
 * Organized and documented Jupyter Notebooks for easy understanding and replication.
 
 # Requirements:
