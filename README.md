@@ -1,4 +1,4 @@
-# Business-Analytics-Model-Development-for-Customer-Churn
+# Business-Analytics-Model-Development: Customer Churn
 
 # Overview:
 This repository contains code and documentation for developing a business analytics model focused on predicting customer churn. The model analyzes customer data to identify patterns and factors contributing to churn, enabling businesses to take proactive measures to retain customers
