@@ -17,7 +17,7 @@ This repository contains code and documentation for developing a business analyt
 * matplotlib
 
 # Installation:
-* Clone the repository to your local machine:
+* Clone the repository to your local machine: 
 
 # Usage:
 * Review and clean the dataset to prepare it for analysis.
