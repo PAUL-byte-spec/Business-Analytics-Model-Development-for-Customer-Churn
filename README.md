@@ -19,6 +19,34 @@ This repository contains code and documentation for developing a business analyt
 
 # Installation:
 * Clone the repository: https://github.com/PAUL-byte-spec/Business-Analytics-Model-Development-for-Customer-Churn.git
+  
+# Step by step plan for developing the model
+# Data Preprocessing:
+•	Load the dataset.
+•	Review the dataset to understand its structure, features, and target variable.
+•	Handle missing values: Identify any missing values and decide on a strategy to handle them (e.g., imputation or removal).
+•	Handle duplicates: Check for duplicate rows and decide whether to remove them.
+•	Split the dataset into features (X) and the target variable (y).
+
+# Model Development:
+•	Linear regression was selected as an appropriate model for the business analytics task 
+•	Divide the dataset into training and testing sets to train and evaluate the model.
+•	Train the model on the training data.
+
+# Model Training:
+•	Fit the model to the training data.
+•	Monitor the training process to ensure convergence and avoid overfitting
+
+# Model Evaluation:
+•	Evaluate the trained model's performance using appropriate evaluation metrics (e.g., mean squared error and R-squared).
+•	Visualize the model's predictions and compare them with the actual values.
+•	Interpret the model's coefficients or feature importance to gain insights into the underlying relationships.
+
+# Model Optimization:
+•	Experiment with different models or algorithms to improve performance.
+•	Fine-tune hyperparameters based on performance metrics and domain knowledge.
+•	Consider ensemble techniques or advanced models for better performance.
+
 
 # Usage:
 * Review and clean the dataset to prepare it for analysis.
